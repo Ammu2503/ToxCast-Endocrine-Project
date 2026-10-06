@@ -1,0 +1,13 @@
+aeid,assay_component_endpoint_name,signal_direction,cell_short_name,detection_technology_type,assay_function_type,cell_viability_assay,burst_assay,timepoint_hr,data_usability,include,reason
+786,TOX21_ERa_BLA_Antagonist_ratio,loss,HEK293T,fluorescence,ratio,0,0,24.0,1,include,"Primary ERa antagonist, BLA, loss of signal"
+787,TOX21_ERa_BLA_Antagonist_viability,loss,HEK293T,luminescence,viability,1,1,24.0,1,include,Viability partner of 786
+789,TOX21_ERa_LUC_VM7_Antagonist_0.5nM_E2,loss,VM7,luminescence,antagonist,0,0,22.0,1,include,"Primary ERa antagonist, LUC VM7, 0.5 nM E2"
+790,TOX21_ERa_LUC_VM7_Antagonist_0.5nM_E2_viability,loss,VM7,luminescence,viability,1,1,22.0,1,include,Viability partner of 789
+1189,TOX21_ERa_BLA_Antagonist_ch1,gain,HEK293T,fluorescence,substrate,0,0,24.0,1,exclude,"Raw BLA channel, feeds the ratio, not a separate assay"
+1190,TOX21_ERa_BLA_Antagonist_ch2,loss,HEK293T,fluorescence,product,0,0,24.0,1,exclude,"Raw BLA channel, feeds the ratio, not a separate assay"
+2053,TOX21_ERa_LUC_VM7_Antagonist_0.1nM_E2,loss,VM7,luminescence,antagonist,0,0,22.0,1,include,"Primary ERa antagonist, LUC VM7, 0.1 nM E2"
+2054,TOX21_ERa_LUC_VM7_Antagonist_0.1nM_E2_viability,loss,VM7,luminescence,viability,1,1,22.0,1,include,Viability partner of 2053
+2117,TOX21_ERb_BLA_Antagonist_ch1,gain,HEK293T,fluorescence,substrate,0,0,24.0,1,exclude,"Raw BLA channel, feeds the ratio, not a separate assay"
+2118,TOX21_ERb_BLA_Antagonist_ch2,loss,HEK293T,fluorescence,product,0,0,24.0,1,exclude,"Raw BLA channel, feeds the ratio, not a separate assay"
+2119,TOX21_ERb_BLA_Antagonist_ratio,loss,HEK293T,fluorescence,ratio,0,0,24.0,1,pending,"ER beta, depends on whether beta is in scope"
+2120,TOX21_ERb_BLA_Antagonist_viability,loss,HEK293T,luminescence,viability,1,1,24.0,1,pending,Viability partner of 2119
