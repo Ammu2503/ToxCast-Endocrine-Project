@@ -1,0 +1,5 @@
+assay,tested,antagonist_active,also_viability_active,active_only_in_antagonist,pct_possible_cytotox
+ERa_BLA,8305,1086,282,804,26.0
+ERa_LUC_0.5nM,8305,846,403,443,47.6
+ERa_LUC_0.1nM,7871,997,394,603,39.5
+ERb_BLA,7871,1474,849,625,57.6
