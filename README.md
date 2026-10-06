@@ -12,11 +12,11 @@ Scope for now: estrogen antagonist assays only. Agonist, androgen and other path
 - Viability endpoint: a cell health test on the same cells. It helps show whether a signal drop is only dead cells.
 - BLA and LUC: two ways of measuring the signal (fluorescence from beta-lactamase, or light from luciferase).
 
-## Data sources (raw data is not stored in this repo)
+## Data sources 
 - EPA assay annotations: assay_annotations_invitrodb_v4_3_AUG2025.xlsx, from the EPA ToxCast download page (invitrodb v4.3, released August 2025). Downloaded 2026-10-01. Place it in Data/Raw.
 - Assay endpoint list: assay-lists-2026-10-01.csv, from the CompTox Dashboard assay endpoints page. Downloaded 2026-10-01. Place it in Data/Raw. Used for early exploration only.
 
-The Data folder is listed in .gitignore, so raw and processed data stay on the local computer.
+The small annotations workbook is stored in Data/Raw so the scripts can be rerun. Other raw and processed data stay on the local computer (the Data folder is listed in .gitignore, and the workbook was added with git add -f).d data stay on the local computer.
 
 ## Folder layout
 - Data/Raw: original downloads, never edited by hand
