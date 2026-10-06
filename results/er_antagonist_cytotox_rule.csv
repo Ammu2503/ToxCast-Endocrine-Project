@@ -1,0 +1,5 @@
+assay,antagonist_active,no_viability_hit,viability_hit_but_selective,likely_cytotoxic,kept_pct
+ERa_BLA,1086,804,89,193,82.2
+ERa_LUC_0.5nM,846,443,100,303,64.2
+ERa_LUC_0.1nM,997,603,83,311,68.8
+ERb_BLA,1474,625,139,710,51.8
