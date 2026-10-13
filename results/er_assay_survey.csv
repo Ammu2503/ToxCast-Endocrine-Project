@@ -1,0 +1,41 @@
+aeid,assay_component_endpoint_name,mechanism_guess,direction_from_name,signal_direction,cell_short_name,detection_technology_type,assay_function_type,assay_design_type,biological_process_target,cell_viability_assay,in_current_master
+708,NVS_NR_bER,binding (guess),unclear from name,loss,,radiometry,binding,binding reporter,receptor binding,0,False
+714,NVS_NR_hER,binding (guess),unclear from name,loss,,radiometry,binding,binding reporter,receptor binding,0,False
+725,NVS_NR_mERa,binding (guess),unclear from name,loss,,radiometry,binding,binding reporter,receptor binding,0,False
+742,OT_ER_ERaERa_0480,dimerization (guess),unclear from name,gain,HEK293T,fluorescence,binding,binding reporter,protein stabilization,0,False
+743,OT_ER_ERaERa_1440,dimerization (guess),unclear from name,gain,HEK293T,fluorescence,binding,binding reporter,protein stabilization,0,False
+744,OT_ER_ERaERb_0480,dimerization (guess),unclear from name,gain,HEK293T,fluorescence,binding,binding reporter,protein stabilization,0,False
+745,OT_ER_ERaERb_1440,dimerization (guess),unclear from name,gain,HEK293T,fluorescence,binding,binding reporter,protein stabilization,0,False
+746,OT_ER_ERbERb_0480,dimerization (guess),unclear from name,gain,HEK293T,fluorescence,binding,binding reporter,protein stabilization,0,False
+747,OT_ER_ERbERb_1440,dimerization (guess),unclear from name,gain,HEK293T,fluorescence,binding,binding reporter,protein stabilization,0,False
+75,ATG_ERE_CIS,gene transcription (guess),unclear from name,bidirectional,HepG2,fluorescence,reporter gene,inducible reporter,regulation of transcription factor activity,0,False
+117,ATG_ERa_TRANS,gene transcription (guess),unclear from name,gain,HepG2,fluorescence,reporter gene,inducible reporter,regulation of transcription factor activity,0,False
+1367,ATG_ERb_TRANS2,gene transcription (guess),unclear from name,gain,HepG2,fluorescence,reporter gene,inducible reporter,regulation of transcription factor activity,0,False
+1353,ATG_Rev_ERB_A_TRANS2,gene transcription (guess),unclear from name,gain,HepG2,fluorescence,reporter gene,inducible reporter,regulation of transcription factor activity,0,False
+1361,ATG_Rev_ERB_B_TRANS2,gene transcription (guess),unclear from name,gain,HepG2,fluorescence,reporter gene,inducible reporter,regulation of transcription factor activity,0,False
+783,TOX21_ERa_BLA_Agonist_ch1,gene transcription (guess),agonist,loss,HEK293T,fluorescence,substrate,background reporter,regulation of transcription factor activity,0,False
+784,TOX21_ERa_BLA_Agonist_ch2,gene transcription (guess),agonist,gain,HEK293T,fluorescence,product,background reporter,regulation of transcription factor activity,0,False
+785,TOX21_ERa_BLA_Agonist_ratio,gene transcription (guess),agonist,gain,HEK293T,fluorescence,ratio,inducible reporter,regulation of transcription factor activity,0,False
+1189,TOX21_ERa_BLA_Antagonist_ch1,gene transcription (guess),antagonist,gain,HEK293T,fluorescence,substrate,background reporter,regulation of transcription factor activity,0,False
+1190,TOX21_ERa_BLA_Antagonist_ch2,gene transcription (guess),antagonist,loss,HEK293T,fluorescence,product,background reporter,regulation of transcription factor activity,0,False
+786,TOX21_ERa_BLA_Antagonist_ratio,gene transcription (guess),antagonist,loss,HEK293T,fluorescence,ratio,inducible reporter,regulation of transcription factor activity,0,True
+787,TOX21_ERa_BLA_Antagonist_viability,gene transcription (guess),antagonist,loss,HEK293T,luminescence,viability,viability reporter,cell proliferation,1,True
+788,TOX21_ERa_LUC_VM7_Agonist,gene transcription (guess),agonist,gain,VM7,luminescence,agonist,inducible reporter,regulation of transcription factor activity,0,False
+2211,TOX21_ERa_LUC_VM7_Agonist_10nM_ICI182780,gene transcription (guess),agonist,gain,VM7,luminescence,agonist,background reporter,artifact detection,0,False
+2212,TOX21_ERa_LUC_VM7_Agonist_10nM_ICI182780_viability,gene transcription (guess),agonist,loss,VM7,luminescence,viability,viability reporter,cell proliferation,1,False
+2053,TOX21_ERa_LUC_VM7_Antagonist_0.1nM_E2,gene transcription (guess),antagonist,loss,VM7,luminescence,antagonist,inducible reporter,regulation of transcription factor activity,0,True
+2054,TOX21_ERa_LUC_VM7_Antagonist_0.1nM_E2_viability,gene transcription (guess),antagonist,loss,VM7,luminescence,viability,viability reporter,cell proliferation,1,True
+789,TOX21_ERa_LUC_VM7_Antagonist_0.5nM_E2,gene transcription (guess),antagonist,loss,VM7,luminescence,antagonist,inducible reporter,regulation of transcription factor activity,0,True
+790,TOX21_ERa_LUC_VM7_Antagonist_0.5nM_E2_viability,gene transcription (guess),antagonist,loss,VM7,luminescence,viability,viability reporter,cell proliferation,1,True
+2113,TOX21_ERb_BLA_Agonist_ch1,gene transcription (guess),agonist,loss,HEK293T,fluorescence,substrate,background reporter,regulation of transcription factor activity,0,False
+2114,TOX21_ERb_BLA_Agonist_ch2,gene transcription (guess),agonist,gain,HEK293T,fluorescence,product,background reporter,regulation of transcription factor activity,0,False
+2115,TOX21_ERb_BLA_Agonist_ratio,gene transcription (guess),agonist,gain,HEK293T,fluorescence,ratio,inducible reporter,regulation of transcription factor activity,0,False
+2116,TOX21_ERb_BLA_Agonist_viability,gene transcription (guess),agonist,loss,HEK293T,luminescence,viability,viability reporter,cell proliferation,1,False
+2117,TOX21_ERb_BLA_Antagonist_ch1,gene transcription (guess),antagonist,gain,HEK293T,fluorescence,substrate,background reporter,regulation of transcription factor activity,0,False
+2118,TOX21_ERb_BLA_Antagonist_ch2,gene transcription (guess),antagonist,loss,HEK293T,fluorescence,product,background reporter,regulation of transcription factor activity,0,False
+2119,TOX21_ERb_BLA_Antagonist_ratio,gene transcription (guess),antagonist,loss,HEK293T,fluorescence,ratio,inducible reporter,regulation of transcription factor activity,0,True
+2120,TOX21_ERb_BLA_Antagonist_viability,gene transcription (guess),antagonist,loss,HEK293T,luminescence,viability,viability reporter,cell proliferation,1,True
+2,ACEA_ER_80hr,"unknown, check",unclear from name,gain,T47D,label free technology,signaling,growth reporter,cell proliferation,0,False
+1852,ACEA_ER_AUC_viability,"unknown, check",unclear from name,loss,T47D,label free technology,viability,growth reporter,cell proliferation,1,False
+750,OT_ERa_GFPERaERE_0120,"unknown, check",unclear from name,gain,HeLa,fluorescence microscopy,reporter gene,inducible reporter,regulation of gene expression,0,False
+751,OT_ERa_GFPERaERE_0480,"unknown, check",unclear from name,gain,HeLa,fluorescence microscopy,reporter gene,inducible reporter,regulation of gene expression,0,False
