@@ -1,0 +1,31 @@
+aeid,assay_component_endpoint_name,mechanism_guess,direction_from_name,signal_direction,cell_short_name,file_in_zip,file_size_kb,in_current_master
+708,NVS_NR_bER,binding (guess),unclear from name,loss,,True,83,False
+714,NVS_NR_hER,binding (guess),unclear from name,loss,,True,92,False
+725,NVS_NR_mERa,binding (guess),unclear from name,loss,,True,82,False
+742,OT_ER_ERaERa_0480,dimerization (guess),unclear from name,gain,HEK293T,True,103,False
+743,OT_ER_ERaERa_1440,dimerization (guess),unclear from name,gain,HEK293T,True,96,False
+744,OT_ER_ERaERb_0480,dimerization (guess),unclear from name,gain,HEK293T,True,119,False
+745,OT_ER_ERaERb_1440,dimerization (guess),unclear from name,gain,HEK293T,True,111,False
+746,OT_ER_ERbERb_0480,dimerization (guess),unclear from name,gain,HEK293T,True,115,False
+747,OT_ER_ERbERb_1440,dimerization (guess),unclear from name,gain,HEK293T,True,105,False
+75,ATG_ERE_CIS,gene transcription (guess),unclear from name,bidirectional,HepG2,True,268,False
+117,ATG_ERa_TRANS,gene transcription (guess),unclear from name,gain,HepG2,True,279,False
+1367,ATG_ERb_TRANS2,gene transcription (guess),unclear from name,gain,HepG2,True,12,False
+785,TOX21_ERa_BLA_Agonist_ratio,gene transcription (guess),agonist,gain,HEK293T,True,468,False
+786,TOX21_ERa_BLA_Antagonist_ratio,gene transcription (guess),antagonist,loss,HEK293T,True,614,True
+787,TOX21_ERa_BLA_Antagonist_viability,gene transcription (guess),antagonist,loss,HEK293T,True,590,True
+788,TOX21_ERa_LUC_VM7_Agonist,gene transcription (guess),agonist,gain,VM7,True,616,False
+2211,TOX21_ERa_LUC_VM7_Agonist_10nM_ICI182780,gene transcription (guess),agonist,gain,VM7,True,424,False
+2212,TOX21_ERa_LUC_VM7_Agonist_10nM_ICI182780_viability,gene transcription (guess),agonist,loss,VM7,True,483,False
+2053,TOX21_ERa_LUC_VM7_Antagonist_0.1nM_E2,gene transcription (guess),antagonist,loss,VM7,True,558,True
+2054,TOX21_ERa_LUC_VM7_Antagonist_0.1nM_E2_viability,gene transcription (guess),antagonist,loss,VM7,True,513,True
+789,TOX21_ERa_LUC_VM7_Antagonist_0.5nM_E2,gene transcription (guess),antagonist,loss,VM7,True,607,True
+790,TOX21_ERa_LUC_VM7_Antagonist_0.5nM_E2_viability,gene transcription (guess),antagonist,loss,VM7,True,567,True
+2115,TOX21_ERb_BLA_Agonist_ratio,gene transcription (guess),agonist,gain,HEK293T,True,439,False
+2116,TOX21_ERb_BLA_Agonist_viability,gene transcription (guess),agonist,loss,HEK293T,True,551,False
+2119,TOX21_ERb_BLA_Antagonist_ratio,gene transcription (guess),antagonist,loss,HEK293T,True,582,True
+2120,TOX21_ERb_BLA_Antagonist_viability,gene transcription (guess),antagonist,loss,HEK293T,True,561,True
+2,ACEA_ER_80hr,"unknown, check",unclear from name,gain,T47D,True,201,False
+1852,ACEA_ER_AUC_viability,"unknown, check",unclear from name,loss,T47D,True,205,False
+750,OT_ERa_GFPERaERE_0120,"unknown, check",unclear from name,gain,HeLa,True,98,False
+751,OT_ERa_GFPERaERE_0480,"unknown, check",unclear from name,gain,HeLa,True,97,False

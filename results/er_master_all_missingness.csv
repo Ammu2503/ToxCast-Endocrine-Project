@@ -1,0 +1,31 @@
+,endpoint,category,cell_line,signal_direction,tested,missing_pct,active,active_pct_of_tested
+aeid_2,ACEA_ER_80hr,cell growth (guess),T47D,gain,3183,66.2,296,9.3
+aeid_75,ATG_ERE_CIS,gene transcription (guess),HepG2,bidirectional,4060,56.8,901,22.2
+aeid_117,ATG_ERa_TRANS,gene transcription (guess),HepG2,gain,4060,56.8,773,19.0
+aeid_708,NVS_NR_bER,binding (guess),,loss,1088,88.4,102,9.4
+aeid_714,NVS_NR_hER,binding (guess),,loss,1177,87.5,206,17.5
+aeid_725,NVS_NR_mERa,binding (guess),,loss,958,89.8,171,17.8
+aeid_742,OT_ER_ERaERa_0480,dimerization (guess),HEK293T,gain,1857,80.3,142,7.6
+aeid_743,OT_ER_ERaERa_1440,dimerization (guess),HEK293T,gain,1857,80.3,159,8.6
+aeid_744,OT_ER_ERaERb_0480,dimerization (guess),HEK293T,gain,1857,80.3,217,11.7
+aeid_745,OT_ER_ERaERb_1440,dimerization (guess),HEK293T,gain,1857,80.3,284,15.3
+aeid_746,OT_ER_ERbERb_0480,dimerization (guess),HEK293T,gain,1857,80.3,213,11.5
+aeid_747,OT_ER_ERbERb_1440,dimerization (guess),HEK293T,gain,1857,80.3,235,12.7
+aeid_750,OT_ERa_GFPERaERE_0120,"unknown, check",HeLa,gain,1857,80.3,192,10.3
+aeid_751,OT_ERa_GFPERaERE_0480,"unknown, check",HeLa,gain,1857,80.3,195,10.5
+aeid_785,TOX21_ERa_BLA_Agonist_ratio,gene transcription (guess),HEK293T,gain,8305,11.7,482,5.8
+aeid_786,TOX21_ERa_BLA_Antagonist_ratio,gene transcription (guess),HEK293T,loss,8305,11.7,1086,13.1
+aeid_787,TOX21_ERa_BLA_Antagonist_viability,gene transcription (guess),HEK293T,loss,8305,11.7,328,3.9
+aeid_788,TOX21_ERa_LUC_VM7_Agonist,gene transcription (guess),VM7,gain,8305,11.7,1126,13.6
+aeid_789,TOX21_ERa_LUC_VM7_Antagonist_0.5nM_E2,gene transcription (guess),VM7,loss,8305,11.7,846,10.2
+aeid_790,TOX21_ERa_LUC_VM7_Antagonist_0.5nM_E2_viability,gene transcription (guess),VM7,loss,8305,11.7,606,7.3
+aeid_1367,ATG_ERb_TRANS2,gene transcription (guess),HepG2,gain,24,99.7,5,20.8
+aeid_1852,ACEA_ER_AUC_viability,cell growth (guess),T47D,loss,3183,66.2,830,26.1
+aeid_2053,TOX21_ERa_LUC_VM7_Antagonist_0.1nM_E2,gene transcription (guess),VM7,loss,7871,16.3,997,12.7
+aeid_2054,TOX21_ERa_LUC_VM7_Antagonist_0.1nM_E2_viability,gene transcription (guess),VM7,loss,7871,16.3,571,7.3
+aeid_2115,TOX21_ERb_BLA_Agonist_ratio,gene transcription (guess),HEK293T,gain,7871,16.3,151,1.9
+aeid_2116,TOX21_ERb_BLA_Agonist_viability,gene transcription (guess),HEK293T,loss,7871,16.3,1102,14.0
+aeid_2119,TOX21_ERb_BLA_Antagonist_ratio,gene transcription (guess),HEK293T,loss,7871,16.3,1474,18.7
+aeid_2120,TOX21_ERb_BLA_Antagonist_viability,gene transcription (guess),HEK293T,loss,7871,16.3,1069,13.6
+aeid_2211,TOX21_ERa_LUC_VM7_Agonist_10nM_ICI182780,gene transcription (guess),VM7,gain,7871,16.3,162,2.1
+aeid_2212,TOX21_ERa_LUC_VM7_Agonist_10nM_ICI182780_viability,gene transcription (guess),VM7,loss,7871,16.3,711,9.0
