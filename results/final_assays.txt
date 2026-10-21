@@ -1,0 +1,7 @@
+# One endpoint per line, in the form aeid_NNN. Lines starting with # are ignored.
+# Fill this AFTER you decide the assay list (draft core assays shown as examples).
+aeid_785
+aeid_786
+aeid_788
+aeid_789
+aeid_2053
