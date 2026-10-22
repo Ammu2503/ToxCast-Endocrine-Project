@@ -1,0 +1,82 @@
+program,assay,method,n_hidden,active_rate,avg_precision,recall,balanced_acc
+Tox21,aeid_785,MICE,1588,0.057,0.185,0.187,0.569
+Tox21,aeid_785,structure only,1588,0.057,0.22,0.242,0.599
+Tox21,aeid_785,all inactive,1588,0.057,0.057,0.0,0.5
+Tox21,aeid_786,MICE,1588,0.141,0.224,0.246,0.568
+Tox21,aeid_786,structure only,1588,0.141,0.263,0.286,0.591
+Tox21,aeid_786,all inactive,1588,0.141,0.141,0.0,0.5
+Tox21,aeid_787,MICE,1588,0.045,0.072,0.099,0.531
+Tox21,aeid_787,structure only,1588,0.045,0.092,0.113,0.539
+Tox21,aeid_787,all inactive,1588,0.045,0.045,0.0,0.5
+Tox21,aeid_788,MICE,1588,0.125,0.229,0.241,0.563
+Tox21,aeid_788,structure only,1588,0.125,0.216,0.226,0.554
+Tox21,aeid_788,all inactive,1588,0.125,0.125,0.0,0.5
+Tox21,aeid_789,MICE,1588,0.096,0.178,0.19,0.547
+Tox21,aeid_789,structure only,1588,0.096,0.2,0.248,0.58
+Tox21,aeid_789,all inactive,1588,0.096,0.096,0.0,0.5
+Tox21,aeid_790,MICE,1588,0.072,0.112,0.122,0.526
+Tox21,aeid_790,structure only,1588,0.072,0.154,0.226,0.582
+Tox21,aeid_790,all inactive,1588,0.072,0.072,0.0,0.5
+Tox21,aeid_1852,MICE,574,0.275,0.34,0.316,0.536
+Tox21,aeid_1852,structure only,574,0.275,0.396,0.361,0.566
+Tox21,aeid_1852,all inactive,574,0.275,0.275,0.0,0.5
+Tox21,aeid_2053,MICE,1506,0.13,0.193,0.214,0.55
+Tox21,aeid_2053,structure only,1506,0.13,0.271,0.301,0.599
+Tox21,aeid_2053,all inactive,1506,0.13,0.13,0.0,0.5
+Tox21,aeid_2054,MICE,1506,0.076,0.103,0.105,0.518
+Tox21,aeid_2054,structure only,1506,0.076,0.175,0.246,0.594
+Tox21,aeid_2054,all inactive,1506,0.076,0.076,0.0,0.5
+Tox21,aeid_2115,MICE,1506,0.02,0.146,0.167,0.575
+Tox21,aeid_2115,structure only,1506,0.02,0.164,0.167,0.575
+Tox21,aeid_2115,all inactive,1506,0.02,0.02,0.0,0.5
+Tox21,aeid_2116,MICE,1506,0.149,0.236,0.259,0.57
+Tox21,aeid_2116,structure only,1506,0.149,0.321,0.317,0.604
+Tox21,aeid_2116,all inactive,1506,0.149,0.149,0.0,0.5
+Tox21,aeid_2119,MICE,1506,0.197,0.295,0.279,0.559
+Tox21,aeid_2119,structure only,1506,0.197,0.391,0.394,0.63
+Tox21,aeid_2119,all inactive,1506,0.197,0.197,0.0,0.5
+Tox21,aeid_2120,MICE,1506,0.145,0.235,0.242,0.562
+Tox21,aeid_2120,structure only,1506,0.145,0.313,0.297,0.593
+Tox21,aeid_2120,all inactive,1506,0.145,0.145,0.0,0.5
+ATG,aeid_75,MICE,704,0.219,0.448,0.409,0.627
+ATG,aeid_75,structure only,704,0.219,0.471,0.435,0.644
+ATG,aeid_75,all inactive,704,0.219,0.219,0.0,0.5
+ATG,aeid_117,MICE,704,0.196,0.491,0.42,0.647
+ATG,aeid_117,structure only,704,0.196,0.48,0.449,0.665
+ATG,aeid_117,all inactive,704,0.196,0.196,0.0,0.5
+ACEA,aeid_2,MICE,591,0.09,0.355,0.34,0.634
+ACEA,aeid_2,structure only,591,0.09,0.299,0.283,0.602
+ACEA,aeid_2,all inactive,591,0.09,0.09,0.0,0.5
+OT,aeid_742,MICE,360,0.083,0.527,0.5,0.73
+OT,aeid_742,structure only,360,0.083,0.384,0.367,0.658
+OT,aeid_742,all inactive,360,0.083,0.083,0.0,0.5
+OT,aeid_743,MICE,360,0.092,0.542,0.485,0.719
+OT,aeid_743,structure only,360,0.092,0.425,0.394,0.669
+OT,aeid_743,all inactive,360,0.092,0.092,0.0,0.5
+OT,aeid_744,MICE,360,0.108,0.526,0.487,0.705
+OT,aeid_744,structure only,360,0.108,0.498,0.513,0.719
+OT,aeid_744,all inactive,360,0.108,0.108,0.0,0.5
+OT,aeid_745,MICE,360,0.158,0.591,0.561,0.741
+OT,aeid_745,structure only,360,0.158,0.518,0.526,0.719
+OT,aeid_745,all inactive,360,0.158,0.158,0.0,0.5
+OT,aeid_746,MICE,360,0.117,0.568,0.5,0.717
+OT,aeid_746,structure only,360,0.117,0.504,0.5,0.717
+OT,aeid_746,all inactive,360,0.117,0.117,0.0,0.5
+OT,aeid_747,MICE,360,0.128,0.557,0.478,0.699
+OT,aeid_747,structure only,360,0.128,0.485,0.522,0.724
+OT,aeid_747,all inactive,360,0.128,0.128,0.0,0.5
+OT,aeid_750,MICE,360,0.117,0.449,0.405,0.671
+OT,aeid_750,structure only,360,0.117,0.255,0.262,0.59
+OT,aeid_750,all inactive,360,0.117,0.117,0.0,0.5
+OT,aeid_751,MICE,360,0.111,0.474,0.45,0.694
+OT,aeid_751,structure only,360,0.111,0.239,0.25,0.581
+OT,aeid_751,all inactive,360,0.111,0.111,0.0,0.5
+NVS binding,aeid_708,MICE,217,0.101,0.438,0.5,0.727
+NVS binding,aeid_708,structure only,217,0.101,0.421,0.364,0.651
+NVS binding,aeid_708,all inactive,217,0.101,0.101,0.0,0.5
+NVS binding,aeid_714,MICE,231,0.177,0.516,0.463,0.676
+NVS binding,aeid_714,structure only,231,0.177,0.511,0.488,0.691
+NVS binding,aeid_714,all inactive,231,0.177,0.177,0.0,0.5
+NVS binding,aeid_725,MICE,188,0.191,0.45,0.361,0.618
+NVS binding,aeid_725,structure only,188,0.191,0.446,0.389,0.635
+NVS binding,aeid_725,all inactive,188,0.191,0.191,0.0,0.5
