@@ -1,0 +1,19 @@
+feature_set,handling,algorithm,assays,mcc_mean,mcc_sd_over_assays,ap_mean,n_train_mean
+assays + fingerprint,MICE,XGBoost,22,0.467,0.108,0.566,3266.773
+assays + fingerprint,MICE,gradient boosting,22,0.456,0.11,0.555,3266.773
+assays + fingerprint,MICE,logistic regression,22,0.374,0.088,0.445,3266.773
+assays + fingerprint,MICE,random forest,22,0.476,0.097,0.581,3266.773
+assays + fingerprint,deletion,XGBoost,22,0.469,0.111,0.566,3027.4
+assays + fingerprint,deletion,gradient boosting,22,0.453,0.108,0.553,3027.4
+assays + fingerprint,deletion,logistic regression,22,0.373,0.084,0.446,3027.4
+assays + fingerprint,deletion,random forest,22,0.476,0.099,0.58,3027.4
+assays + fingerprint,native blanks,gradient boosting,22,0.453,0.108,0.553,3266.773
+assays only,MICE,XGBoost,22,0.372,0.134,0.407,3266.773
+assays only,MICE,gradient boosting,22,0.372,0.128,0.404,3266.773
+assays only,MICE,logistic regression,22,0.37,0.133,0.411,3266.773
+assays only,MICE,random forest,22,0.365,0.127,0.401,3266.773
+assays only,deletion,XGBoost,22,0.375,0.129,0.407,3027.4
+assays only,deletion,gradient boosting,22,0.374,0.126,0.405,3027.4
+assays only,deletion,logistic regression,22,0.37,0.132,0.41,3027.4
+assays only,deletion,random forest,22,0.366,0.124,0.402,3027.4
+assays only,native blanks,gradient boosting,22,0.372,0.128,0.405,3266.773

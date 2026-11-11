@@ -1,0 +1,13 @@
+feature_set,algorithm,metric,assays,deletion_mean,mean_diff,ci_low,ci_high,assays_mice_better
+assays + fingerprint,XGBoost,mcc,22,0.48,0.0006,-0.0082,0.0094,7
+assays + fingerprint,XGBoost,avg_precision,22,0.568,0.0061,0.0006,0.0116,9
+assays + fingerprint,logistic regression,mcc,22,0.399,0.0022,-0.0073,0.0118,7
+assays + fingerprint,logistic regression,avg_precision,22,0.475,0.0027,-0.004,0.0094,6
+assays + fingerprint,random forest,mcc,22,0.469,0.0015,-0.0093,0.0123,5
+assays + fingerprint,random forest,avg_precision,22,0.57,-0.0067,-0.0186,0.0052,5
+assays only,XGBoost,mcc,22,0.374,0.0011,-0.0032,0.0054,4
+assays only,XGBoost,avg_precision,22,0.401,0.0004,-0.0023,0.0032,8
+assays only,logistic regression,mcc,22,0.358,0.0119,-0.0109,0.0348,7
+assays only,logistic regression,avg_precision,22,0.396,-0.0002,-0.0023,0.002,2
+assays only,random forest,mcc,22,0.365,0.0056,-0.0003,0.0116,5
+assays only,random forest,avg_precision,22,0.393,0.0024,-0.0008,0.0056,7
